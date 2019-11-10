@@ -1,0 +1,70 @@
+<root>
+  <dane>
+    <Regon>000331501</Regon>
+    <Nip>5261040828</Nip>
+    <StatusNip />
+    <Nazwa>GŁÓWNY URZĄD STATYSTYCZNY</Nazwa>
+    <Wojewodztwo>MAZOWIECKIE</Wojewodztwo>
+    <Powiat>m. st. Warszawa</Powiat>
+    <Gmina>Śródmieście</Gmina>
+    <Miejscowosc>Warszawa</Miejscowosc>
+    <KodPocztowy>00-925</KodPocztowy>
+    <Ulica>Aleja Niepodległości</Ulica>
+    <NrNieruchomosci>208</NrNieruchomosci>
+    <NrLokalu />
+    <Typ>P</Typ>
+    <SilosID>6</SilosID>
+    <DataZakonczeniaDzialalnosci />
+  </dane>
+  <dane>
+    <Regon>001022972</Regon>
+    <Nip>7781029219</Nip>
+    <StatusNip />
+    <Nazwa>IZBA ADMINISTRACJI SKARBOWEJ W POZNANIU</Nazwa>
+    <Wojewodztwo>WIELKOPOLSKIE</Wojewodztwo>
+    <Powiat>m. Poznań</Powiat>
+    <Gmina>Poznań-Wilda</Gmina>
+    <Miejscowosc>Poznań</Miejscowosc>
+    <KodPocztowy>61-501</KodPocztowy>
+    <Ulica>ul. Dolna Wilda</Ulica>
+    <NrNieruchomosci>80A</NrNieruchomosci>
+    <NrLokalu />
+    <Typ>P</Typ>
+    <SilosID>6</SilosID>
+    <DataZakonczeniaDzialalnosci />
+  </dane>
+  <dane>
+    <Regon>230197243</Regon>
+    <Nip>6141000198</Nip>
+    <StatusNip />
+    <Nazwa>"BIAŁY DOM" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ W UPADŁOŚCI LIKWIDACYJNEJ</Nazwa>
+    <Wojewodztwo>DOLNOŚLĄSKIE</Wojewodztwo>
+    <Powiat>jeleniogórski</Powiat>
+    <Gmina>Stara Kamienica</Gmina>
+    <Miejscowosc>Antoniów</Miejscowosc>
+    <KodPocztowy>58-512</KodPocztowy>
+    <Ulica />
+    <NrNieruchomosci>1</NrNieruchomosci>
+    <NrLokalu />
+    <Typ>P</Typ>
+    <SilosID>6</SilosID>
+    <DataZakonczeniaDzialalnosci>2018-05-28</DataZakonczeniaDzialalnosci>
+  </dane>
+  <dane>
+    <Regon>015249570</Regon>
+    <Nip>1251229338</Nip>
+    <StatusNip />
+    <Nazwa>PARAFIALNY KLUB SPORTOWY "LIWIEC"</Nazwa>
+    <Wojewodztwo>MAZOWIECKIE</Wojewodztwo>
+    <Powiat>wołomiński</Powiat>
+    <Gmina>Jadów</Gmina>
+    <Miejscowosc>Borzymy</Miejscowosc>
+    <KodPocztowy>05-281</KodPocztowy>
+    <Ulica>ul. Piękna</Ulica>
+    <NrNieruchomosci>8</NrNieruchomosci>
+    <NrLokalu />
+    <Typ>P</Typ>
+    <SilosID>6</SilosID>
+    <DataZakonczeniaDzialalnosci />
+  </dane>
+</root>

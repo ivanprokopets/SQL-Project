@@ -1,0 +1,230 @@
+<root>
+  <dane>
+    <praw_regon9>000331501</praw_regon9>
+    <praw_nip>5261040828</praw_nip>
+    <praw_statusNip />
+    <praw_nazwa>GŁÓWNY URZĄD STATYSTYCZNY</praw_nazwa>
+    <praw_nazwaSkrocona>GUS</praw_nazwaSkrocona>
+    <praw_numerWRejestrzeEwidencji />
+    <praw_dataWpisuDoRejestruEwidencji>1975-12-15</praw_dataWpisuDoRejestruEwidencji>
+    <praw_dataPowstania>1975-12-15</praw_dataPowstania>
+    <praw_dataRozpoczeciaDzialalnosci>1975-12-15</praw_dataRozpoczeciaDzialalnosci>
+    <praw_dataWpisuDoRegon />
+    <praw_dataZawieszeniaDzialalnosci />
+    <praw_dataWznowieniaDzialalnosci />
+    <praw_dataZaistnieniaZmiany>2013-04-22</praw_dataZaistnieniaZmiany>
+    <praw_dataZakonczeniaDzialalnosci />
+    <praw_dataSkresleniaZRegon />
+    <praw_dataOrzeczeniaOUpadlosci />
+    <praw_dataZakonczeniaPostepowaniaUpadlosciowego />
+    <praw_adSiedzKraj_Symbol>PL</praw_adSiedzKraj_Symbol>
+    <praw_adSiedzWojewodztwo_Symbol>14</praw_adSiedzWojewodztwo_Symbol>
+    <praw_adSiedzPowiat_Symbol>65</praw_adSiedzPowiat_Symbol>
+    <praw_adSiedzGmina_Symbol>108</praw_adSiedzGmina_Symbol>
+    <praw_adSiedzKodPocztowy>00925</praw_adSiedzKodPocztowy>
+    <praw_adSiedzMiejscowoscPoczty_Symbol>0919810</praw_adSiedzMiejscowoscPoczty_Symbol>
+    <praw_adSiedzMiejscowosc_Symbol>0919810</praw_adSiedzMiejscowosc_Symbol>
+    <praw_adSiedzUlica_Symbol>38299</praw_adSiedzUlica_Symbol>
+    <praw_adSiedzNumerNieruchomosci>208</praw_adSiedzNumerNieruchomosci>
+    <praw_adSiedzNumerLokalu />
+    <praw_adSiedzNietypoweMiejsceLokalizacji />
+    <praw_numerTelefonu>6083000</praw_numerTelefonu>
+    <praw_numerWewnetrznyTelefonu />
+    <praw_numerFaksu>0226083863</praw_numerFaksu>
+    <praw_adresEmail>dgsek@stat.gov.pl</praw_adresEmail>
+    <praw_adresStronyinternetowej>www.stat.gov.pl</praw_adresStronyinternetowej>
+    <praw_adSiedzKraj_Nazwa>POLSKA</praw_adSiedzKraj_Nazwa>
+    <praw_adSiedzWojewodztwo_Nazwa>MAZOWIECKIE</praw_adSiedzWojewodztwo_Nazwa>
+    <praw_adSiedzPowiat_Nazwa>m. st. Warszawa</praw_adSiedzPowiat_Nazwa>
+    <praw_adSiedzGmina_Nazwa>Śródmieście</praw_adSiedzGmina_Nazwa>
+    <praw_adSiedzMiejscowosc_Nazwa>Warszawa</praw_adSiedzMiejscowosc_Nazwa>
+    <praw_adSiedzMiejscowoscPoczty_Nazwa>Warszawa</praw_adSiedzMiejscowoscPoczty_Nazwa>
+    <praw_adSiedzUlica_Nazwa>Aleja Niepodległości</praw_adSiedzUlica_Nazwa>
+    <praw_podstawowaFormaPrawna_Symbol>2</praw_podstawowaFormaPrawna_Symbol>
+    <praw_szczegolnaFormaPrawna_Symbol>401</praw_szczegolnaFormaPrawna_Symbol>
+    <praw_formaFinansowania_Symbol>2</praw_formaFinansowania_Symbol>
+    <praw_formaWlasnosci_Symbol>111</praw_formaWlasnosci_Symbol>
+    <praw_organZalozycielski_Symbol>050000000</praw_organZalozycielski_Symbol>
+    <praw_organRejestrowy_Symbol />
+    <praw_rodzajRejestruEwidencji_Symbol>000</praw_rodzajRejestruEwidencji_Symbol>
+    <praw_podstawowaFormaPrawna_Nazwa>JEDNOSTKA ORGANIZACYJNA NIEMAJĄCA OSOBOWOŚCI PRAWNEJ</praw_podstawowaFormaPrawna_Nazwa>
+    <praw_szczegolnaFormaPrawna_Nazwa>ORGANY WŁADZY, ADMINISTRACJI RZĄDOWEJ</praw_szczegolnaFormaPrawna_Nazwa>
+    <praw_formaFinansowania_Nazwa>JEDNOSTKA BUDŻETOWA</praw_formaFinansowania_Nazwa>
+    <praw_formaWlasnosci_Nazwa>WŁASNOŚĆ SKARBU PAŃSTWA</praw_formaWlasnosci_Nazwa>
+    <praw_organZalozycielski_Nazwa>PREZES GŁÓWNEGO URZĘDU STATYSTYCZNEGO</praw_organZalozycielski_Nazwa>
+    <praw_organRejestrowy_Nazwa />
+    <praw_rodzajRejestruEwidencji_Nazwa>PODMIOTY UTWORZONE Z MOCY USTAWY</praw_rodzajRejestruEwidencji_Nazwa>
+    <praw_liczbaJednLokalnych>0</praw_liczbaJednLokalnych>
+  </dane>
+  <dane>
+    <praw_regon9>001022972</praw_regon9>
+    <praw_nip>7781029219</praw_nip>
+    <praw_statusNip />
+    <praw_nazwa>IZBA ADMINISTRACJI SKARBOWEJ W POZNANIU</praw_nazwa>
+    <praw_nazwaSkrocona />
+    <praw_numerWRejestrzeEwidencji />
+    <praw_dataWpisuDoRejestruEwidencji />
+    <praw_dataPowstania>1983-01-01</praw_dataPowstania>
+    <praw_dataRozpoczeciaDzialalnosci>1983-01-01</praw_dataRozpoczeciaDzialalnosci>
+    <praw_dataWpisuDoRegon />
+    <praw_dataZawieszeniaDzialalnosci />
+    <praw_dataWznowieniaDzialalnosci />
+    <praw_dataZaistnieniaZmiany>2017-12-04</praw_dataZaistnieniaZmiany>
+    <praw_dataZakonczeniaDzialalnosci />
+    <praw_dataSkresleniaZRegon />
+    <praw_dataOrzeczeniaOUpadlosci />
+    <praw_dataZakonczeniaPostepowaniaUpadlosciowego />
+    <praw_adSiedzKraj_Symbol>PL</praw_adSiedzKraj_Symbol>
+    <praw_adSiedzWojewodztwo_Symbol>30</praw_adSiedzWojewodztwo_Symbol>
+    <praw_adSiedzPowiat_Symbol>64</praw_adSiedzPowiat_Symbol>
+    <praw_adSiedzGmina_Symbol>069</praw_adSiedzGmina_Symbol>
+    <praw_adSiedzKodPocztowy>61501</praw_adSiedzKodPocztowy>
+    <praw_adSiedzMiejscowoscPoczty_Symbol>0970448</praw_adSiedzMiejscowoscPoczty_Symbol>
+    <praw_adSiedzMiejscowosc_Symbol>0970448</praw_adSiedzMiejscowosc_Symbol>
+    <praw_adSiedzUlica_Symbol>04041</praw_adSiedzUlica_Symbol>
+    <praw_adSiedzNumerNieruchomosci>80A</praw_adSiedzNumerNieruchomosci>
+    <praw_adSiedzNumerLokalu />
+    <praw_adSiedzNietypoweMiejsceLokalizacji />
+    <praw_numerTelefonu>618586100</praw_numerTelefonu>
+    <praw_numerWewnetrznyTelefonu />
+    <praw_numerFaksu>61852224</praw_numerFaksu>
+    <praw_adresEmail>IS@WP.MOFNET.GOV.PL</praw_adresEmail>
+    <praw_adresStronyinternetowej>WWW.IS.POZNAN.PL</praw_adresStronyinternetowej>
+    <praw_adSiedzKraj_Nazwa>POLSKA</praw_adSiedzKraj_Nazwa>
+    <praw_adSiedzWojewodztwo_Nazwa>WIELKOPOLSKIE</praw_adSiedzWojewodztwo_Nazwa>
+    <praw_adSiedzPowiat_Nazwa>m. Poznań</praw_adSiedzPowiat_Nazwa>
+    <praw_adSiedzGmina_Nazwa>Poznań-Wilda</praw_adSiedzGmina_Nazwa>
+    <praw_adSiedzMiejscowosc_Nazwa>Poznań</praw_adSiedzMiejscowosc_Nazwa>
+    <praw_adSiedzMiejscowoscPoczty_Nazwa>Poznań</praw_adSiedzMiejscowoscPoczty_Nazwa>
+    <praw_adSiedzUlica_Nazwa>ul. Dolna Wilda</praw_adSiedzUlica_Nazwa>
+    <praw_podstawowaFormaPrawna_Symbol>2</praw_podstawowaFormaPrawna_Symbol>
+    <praw_szczegolnaFormaPrawna_Symbol>401</praw_szczegolnaFormaPrawna_Symbol>
+    <praw_formaFinansowania_Symbol>2</praw_formaFinansowania_Symbol>
+    <praw_formaWlasnosci_Symbol>111</praw_formaWlasnosci_Symbol>
+    <praw_organZalozycielski_Symbol>005000040</praw_organZalozycielski_Symbol>
+    <praw_organRejestrowy_Symbol />
+    <praw_rodzajRejestruEwidencji_Symbol>000</praw_rodzajRejestruEwidencji_Symbol>
+    <praw_podstawowaFormaPrawna_Nazwa>JEDNOSTKA ORGANIZACYJNA NIEMAJĄCA OSOBOWOŚCI PRAWNEJ</praw_podstawowaFormaPrawna_Nazwa>
+    <praw_szczegolnaFormaPrawna_Nazwa>ORGANY WŁADZY, ADMINISTRACJI RZĄDOWEJ</praw_szczegolnaFormaPrawna_Nazwa>
+    <praw_formaFinansowania_Nazwa>JEDNOSTKA BUDŻETOWA</praw_formaFinansowania_Nazwa>
+    <praw_formaWlasnosci_Nazwa>WŁASNOŚĆ SKARBU PAŃSTWA</praw_formaWlasnosci_Nazwa>
+    <praw_organZalozycielski_Nazwa>MINISTER FINANSÓW</praw_organZalozycielski_Nazwa>
+    <praw_organRejestrowy_Nazwa />
+    <praw_rodzajRejestruEwidencji_Nazwa>PODMIOTY UTWORZONE Z MOCY USTAWY</praw_rodzajRejestruEwidencji_Nazwa>
+    <praw_liczbaJednLokalnych>40</praw_liczbaJednLokalnych>
+  </dane>
+  <dane>
+    <praw_regon9>230197243</praw_regon9>
+    <praw_nip>6141000198</praw_nip>
+    <praw_statusNip />
+    <praw_nazwa>"BIAŁY DOM" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ W UPADŁOŚCI LIKWIDACYJNEJ</praw_nazwa>
+    <praw_nazwaSkrocona />
+    <praw_numerWRejestrzeEwidencji>0000066641</praw_numerWRejestrzeEwidencji>
+    <praw_dataWpisuDoRejestruEwidencji>2001-11-28</praw_dataWpisuDoRejestruEwidencji>
+    <praw_dataPowstania>1994-06-16</praw_dataPowstania>
+    <praw_dataRozpoczeciaDzialalnosci>1994-06-16</praw_dataRozpoczeciaDzialalnosci>
+    <praw_dataWpisuDoRegon />
+    <praw_dataZawieszeniaDzialalnosci />
+    <praw_dataWznowieniaDzialalnosci />
+    <praw_dataZaistnieniaZmiany>2018-05-25</praw_dataZaistnieniaZmiany>
+    <praw_dataZakonczeniaDzialalnosci>2018-05-28</praw_dataZakonczeniaDzialalnosci>
+    <praw_dataSkresleniaZRegon>2018-07-03</praw_dataSkresleniaZRegon>
+    <praw_dataOrzeczeniaOUpadlosci>2014-11-03</praw_dataOrzeczeniaOUpadlosci>
+    <praw_dataZakonczeniaPostepowaniaUpadlosciowego />
+    <praw_adSiedzKraj_Symbol>PL</praw_adSiedzKraj_Symbol>
+    <praw_adSiedzWojewodztwo_Symbol>02</praw_adSiedzWojewodztwo_Symbol>
+    <praw_adSiedzPowiat_Symbol>06</praw_adSiedzPowiat_Symbol>
+    <praw_adSiedzGmina_Symbol>092</praw_adSiedzGmina_Symbol>
+    <praw_adSiedzKodPocztowy>58512</praw_adSiedzKodPocztowy>
+    <praw_adSiedzMiejscowoscPoczty_Symbol>0192420</praw_adSiedzMiejscowoscPoczty_Symbol>
+    <praw_adSiedzMiejscowosc_Symbol>0192301</praw_adSiedzMiejscowosc_Symbol>
+    <praw_adSiedzUlica_Symbol />
+    <praw_adSiedzNumerNieruchomosci>1</praw_adSiedzNumerNieruchomosci>
+    <praw_adSiedzNumerLokalu />
+    <praw_adSiedzNietypoweMiejsceLokalizacji />
+    <praw_numerTelefonu>757543713</praw_numerTelefonu>
+    <praw_numerWewnetrznyTelefonu />
+    <praw_numerFaksu />
+    <praw_adresEmail />
+    <praw_adresStronyinternetowej />
+    <praw_adSiedzKraj_Nazwa>POLSKA</praw_adSiedzKraj_Nazwa>
+    <praw_adSiedzWojewodztwo_Nazwa>DOLNOŚLĄSKIE</praw_adSiedzWojewodztwo_Nazwa>
+    <praw_adSiedzPowiat_Nazwa>jeleniogórski</praw_adSiedzPowiat_Nazwa>
+    <praw_adSiedzGmina_Nazwa>Stara Kamienica</praw_adSiedzGmina_Nazwa>
+    <praw_adSiedzMiejscowosc_Nazwa>Antoniów</praw_adSiedzMiejscowosc_Nazwa>
+    <praw_adSiedzMiejscowoscPoczty_Nazwa>Stara Kamienica</praw_adSiedzMiejscowoscPoczty_Nazwa>
+    <praw_adSiedzUlica_Nazwa />
+    <praw_podstawowaFormaPrawna_Symbol>1</praw_podstawowaFormaPrawna_Symbol>
+    <praw_szczegolnaFormaPrawna_Symbol>117</praw_szczegolnaFormaPrawna_Symbol>
+    <praw_formaFinansowania_Symbol>1</praw_formaFinansowania_Symbol>
+    <praw_formaWlasnosci_Symbol>224</praw_formaWlasnosci_Symbol>
+    <praw_organZalozycielski_Symbol />
+    <praw_organRejestrowy_Symbol>071930020</praw_organRejestrowy_Symbol>
+    <praw_rodzajRejestruEwidencji_Symbol>138</praw_rodzajRejestruEwidencji_Symbol>
+    <praw_podstawowaFormaPrawna_Nazwa>OSOBA PRAWNA</praw_podstawowaFormaPrawna_Nazwa>
+    <praw_szczegolnaFormaPrawna_Nazwa>SPÓŁKI Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</praw_szczegolnaFormaPrawna_Nazwa>
+    <praw_formaFinansowania_Nazwa>JEDNOSTKA SAMOFINANSUJĄCA NIE BĘDĄCA JEDNOSTKĄ BUDŻETOWĄ LUB SAMORZĄDOWYM ZAKŁADEM BUDŻETOWYM</praw_formaFinansowania_Nazwa>
+    <praw_formaWlasnosci_Nazwa>WŁASNOŚĆ MIESZANA W SEKTORZE PRYWATNYM Z PRZEWAGĄ WŁASNOŚCI KRAJOWYCH OSÓB FIZYCZNYCH</praw_formaWlasnosci_Nazwa>
+    <praw_organZalozycielski_Nazwa />
+    <praw_organRejestrowy_Nazwa>SĄD REJONOWY DLA WROCŁAWIA FABRYCZNEJ WE WROCŁAWIU, IX WYDZIAŁ GOSPODARCZY KRAJOWEGO REJESTRU SĄDOWEGO</praw_organRejestrowy_Nazwa>
+    <praw_rodzajRejestruEwidencji_Nazwa>REJESTR PRZEDSIĘBIORCÓW</praw_rodzajRejestruEwidencji_Nazwa>
+    <praw_liczbaJednLokalnych>0</praw_liczbaJednLokalnych>
+  </dane>
+  <dane>
+    <praw_regon9>015249570</praw_regon9>
+    <praw_nip>1251229338</praw_nip>
+    <praw_statusNip />
+    <praw_nazwa>PARAFIALNY KLUB SPORTOWY "LIWIEC"</praw_nazwa>
+    <praw_nazwaSkrocona />
+    <praw_numerWRejestrzeEwidencji>0000130298</praw_numerWRejestrzeEwidencji>
+    <praw_dataWpisuDoRejestruEwidencji>2002-09-10</praw_dataWpisuDoRejestruEwidencji>
+    <praw_dataPowstania>2002-09-10</praw_dataPowstania>
+    <praw_dataRozpoczeciaDzialalnosci>2002-10-01</praw_dataRozpoczeciaDzialalnosci>
+    <praw_dataWpisuDoRegon />
+    <praw_dataZawieszeniaDzialalnosci />
+    <praw_dataWznowieniaDzialalnosci />
+    <praw_dataZaistnieniaZmiany>2008-11-20</praw_dataZaistnieniaZmiany>
+    <praw_dataZakonczeniaDzialalnosci />
+    <praw_dataSkresleniaZRegon />
+    <praw_dataOrzeczeniaOUpadlosci />
+    <praw_dataZakonczeniaPostepowaniaUpadlosciowego />
+    <praw_adSiedzKraj_Symbol>PL</praw_adSiedzKraj_Symbol>
+    <praw_adSiedzWojewodztwo_Symbol>14</praw_adSiedzWojewodztwo_Symbol>
+    <praw_adSiedzPowiat_Symbol>34</praw_adSiedzPowiat_Symbol>
+    <praw_adSiedzGmina_Symbol>062</praw_adSiedzGmina_Symbol>
+    <praw_adSiedzKodPocztowy>05281</praw_adSiedzKodPocztowy>
+    <praw_adSiedzMiejscowoscPoczty_Symbol>0673383</praw_adSiedzMiejscowoscPoczty_Symbol>
+    <praw_adSiedzMiejscowosc_Symbol>0673153</praw_adSiedzMiejscowosc_Symbol>
+    <praw_adSiedzUlica_Symbol>16191</praw_adSiedzUlica_Symbol>
+    <praw_adSiedzNumerNieruchomosci>8</praw_adSiedzNumerNieruchomosci>
+    <praw_adSiedzNumerLokalu />
+    <praw_adSiedzNietypoweMiejsceLokalizacji />
+    <praw_numerTelefonu>0256754917</praw_numerTelefonu>
+    <praw_numerWewnetrznyTelefonu />
+    <praw_numerFaksu />
+    <praw_adresEmail />
+    <praw_adresStronyinternetowej />
+    <praw_adSiedzKraj_Nazwa>POLSKA</praw_adSiedzKraj_Nazwa>
+    <praw_adSiedzWojewodztwo_Nazwa>MAZOWIECKIE</praw_adSiedzWojewodztwo_Nazwa>
+    <praw_adSiedzPowiat_Nazwa>wołomiński</praw_adSiedzPowiat_Nazwa>
+    <praw_adSiedzGmina_Nazwa>Jadów</praw_adSiedzGmina_Nazwa>
+    <praw_adSiedzMiejscowosc_Nazwa>Borzymy</praw_adSiedzMiejscowosc_Nazwa>
+    <praw_adSiedzMiejscowoscPoczty_Nazwa>Urle</praw_adSiedzMiejscowoscPoczty_Nazwa>
+    <praw_adSiedzUlica_Nazwa>ul. Piękna</praw_adSiedzUlica_Nazwa>
+    <praw_podstawowaFormaPrawna_Symbol>1</praw_podstawowaFormaPrawna_Symbol>
+    <praw_szczegolnaFormaPrawna_Symbol>157</praw_szczegolnaFormaPrawna_Symbol>
+    <praw_formaFinansowania_Symbol>1</praw_formaFinansowania_Symbol>
+    <praw_formaWlasnosci_Symbol>215</praw_formaWlasnosci_Symbol>
+    <praw_organZalozycielski_Symbol />
+    <praw_organRejestrowy_Symbol>071010030</praw_organRejestrowy_Symbol>
+    <praw_rodzajRejestruEwidencji_Symbol>139</praw_rodzajRejestruEwidencji_Symbol>
+    <praw_podstawowaFormaPrawna_Nazwa>OSOBA PRAWNA</praw_podstawowaFormaPrawna_Nazwa>
+    <praw_szczegolnaFormaPrawna_Nazwa>STOWARZYSZENIA KULTURY FIZYCZNEJ</praw_szczegolnaFormaPrawna_Nazwa>
+    <praw_formaFinansowania_Nazwa>JEDNOSTKA SAMOFINANSUJĄCA NIE BĘDĄCA JEDNOSTKĄ BUDŻETOWĄ LUB SAMORZĄDOWYM ZAKŁADEM BUDŻETOWYM</praw_formaFinansowania_Nazwa>
+    <praw_formaWlasnosci_Nazwa>WŁASNOŚĆ PRYWATNA KRAJOWA POZOSTAŁA</praw_formaWlasnosci_Nazwa>
+    <praw_organZalozycielski_Nazwa />
+    <praw_organRejestrowy_Nazwa>SĄD REJONOWY DLA M. ST. WARSZAWY W WARSZAWIE, XXI WYDZIAŁ GOSPODARCZY KRAJOWEGO REJESTRU SĄDOWEGO</praw_organRejestrowy_Nazwa>
+    <praw_rodzajRejestruEwidencji_Nazwa>REJESTR STOWARZYSZEŃ, INNYCH ORGANIZACJI SPOŁECZNYCH I ZAWODOWYCH, FUNDACJI ORAZ SAMODZIELNYCH PUBLICZNYCH ZAKŁADÓW OPIEKI ZDROWOTNEJ</praw_rodzajRejestruEwidencji_Nazwa>
+    <praw_liczbaJednLokalnych>0</praw_liczbaJednLokalnych>
+  </dane>
+</root>
