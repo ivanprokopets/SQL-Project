@@ -8,3 +8,7 @@ Parsing and connect API_GUS https://api.stat.gov.pl/Home/Index
 `	SET @FileNameDanePobierzPelnyRaport = N'E:\SQL_PROJEKT\DanePobierzPelnyRaport.xml'`    
 ` SET @FileNameDanePobierzRaportZbiorczy = N'E:\SQL_PROJEKT\DanePobierzRaportZbiorczy.xml'`    
 Replace path, where you have file date.
+
+## API_BDL_XML
+
+Connect to API 
