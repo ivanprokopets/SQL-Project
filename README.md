@@ -12,3 +12,4 @@ Replace path, where you have file date.
 ## API_BDL_XML
 
 Connect to API 
+Pliz read the comments the code [Code](./API_BDL_XML_v3.0.sql)
