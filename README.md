@@ -14,5 +14,5 @@ Please read the comments of the code [Code](./API_BDL_XML_v3.0.sql)
 
 
 ## API_TERYT_XML
-Connect to API_TERYT https://api.stat.gov.pl/Home/TerytApi
+Connect to API_TERYT https://api.stat.gov.pl/Home/TerytApi  
 Replace path, where you have file date.
