@@ -1,6 +1,8 @@
 # SQL_Project
 Parsing and connect API_GUS https://api.stat.gov.pl/Home/Index
 
+Prosze patrzyc do folderu dokumentacja[tutaj](./documentation)
+
 ----------------------
 
 ## API_REGON_XML
